@@ -1,23 +1,22 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:31:07.911029
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:59
 #+TITLE: 普遍光明清淨熾盛如意寶印心無能勝大明王大隨求陀羅尼經
 #+PROPERTY: CBETA_ID T20n1153
 #+PROPERTY: ID KR6j0371
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1153
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
-#+PROPERTY: LASTPB <pb:KR6j0371_T_002-0622b> ¶¶¶¶¶¶¶¶¶
+#+PROPERTY: WITNESS master
+#+PROPERTY: LASTPB <pb:KR6j0371_T_002-0622b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
 ¶
-
- 普遍光明清淨熾盛如意寶印心¶
+普遍光明清淨熾盛如意寶印心¶
 無能勝大明王大隨求陀羅尼經¶
 卷下(百千印陀羅尼經同卷別譯)¶
 ¶
-開府儀同三司特進試鴻臚卿肅國¶
+開府儀同三司特進試鴻臚卿蕭國¶
 公食邑三千戶賜紫贈司空諡大鑒¶
 正號大廣智大興善寺三藏沙門¶
 不空奉　詔譯¶
@@ -131,9 +130,9 @@
 　能脫非時死
 　大悲尊所說¶
 　能止大疾病
-　速證大菩提
+　速證大菩提」
 #+END_VERSE
-」¶
+¶
 
 爾時彼王歡喜踊躍。即取彼隨求供養禮拜。¶
 即以繒帛繫罪人首。與其灌頂冊稱為城主
@@ -420,15 +419,11 @@
 　能於一切處¶
 　而獲大供養
 　人中得最勝¶
-　加護修真言
+　加護修真言」
 #+END_VERSE
-」¶
-
-2修行菩薩隨求大護大明王陀羅尼品
-:PROPERTIES:
-:head: 修行菩薩隨求大護大明王陀羅尼品第二
-:END:
 ¶
+
+* 修行菩薩隨求大護大明王陀羅尼品第二¶
 
 爾時世尊告大梵說伽他曰。
 <pb:KR6j0371_T_002-0625b>¶
@@ -579,9 +574,9 @@
 　令彼作加護
 　常恒於晝夜¶
 　大護成就明
-　等正覺所說
+　等正覺所說」
 #+END_VERSE
-」¶
+¶
 
 爾時薄伽婆即說隨求大護明王大心陀羅尼¶
 曰。¶
@@ -845,16 +840,15 @@
 　由書帶此明
 　恒常而隨逐¶
 　由依法誦持
-　獲得大榮盛
+　獲得大榮盛」
 #+END_VERSE
-」¶
+¶
 
 爾時世尊說是經已。諸大菩薩大聲聞眾。及¶
 梵天王一切天龍藥叉阿蘇羅乾闥婆蘖路¶
 茶緊那羅摩呼羅伽人非人等。皆大歡喜信¶
 受奉行。¶
-普遍光明清淨熾盛如意寶印心無能勝大¶
-明王大隨求陀羅尼經卷下
+普遍光明清淨熾盛如意寶印心無能勝大明王大隨求陀羅尼經卷下
 <pb:KR6j0371_T_002-0628b>¶
 
 #+BEGIN_VERSE
@@ -873,9 +867,9 @@
 　恒用戒香塗瑩體
 　常持定服以資身¶
 　菩提妙花遍莊嚴
-　隨所住處常安樂
+　隨所住處常安樂」
 #+END_VERSE
-」¶
+¶
 
 曩謨薩嚩怛他(去聲引)誐跢(去聲引)南(引一)曩謨曩¶
 莫(二)薩嚩沒馱[曰/月](引)地薩多嚩(二合三)沒馱達¶
@@ -943,7 +937,7 @@
 母蘇母(十一)祖母佐㘑(十二)多囉多囉(十三)曩¶
 (引)誐尾路枳𩕳跢囉野覩𤚥(十四)婆誐嚩底¶
 阿瑟吒(二合)摩賀婆曳毘藥(二合十五)三悶(上聲)¶
-捺囉(二合)娑(去聲引)誐囉鉢哩演(二合)擔(平聲十六)播¶
+捺囉(二合)娑(去聲引)誐囉鉢哩演(二合)檐(平聲十六)播¶
 (引)跢(引)羅誐誐曩怛覽(二合)薩嚩怛囉(二合十七)三¶
 滿帝曩儞(泥以切)捨滿第(引)曩(十八)嚩日囉(二合引)¶
 鉢囉(二合)迦(引)囉嚩日囉(二合)播(引)捨滿彈¶
@@ -952,7 +946,7 @@
 戍馱𩕳(二十二)[鋦-尸+戶]吃史(二合)三布囉抳(二十三)入嚩¶
 (二合)羅入嚩(二合)羅(二十四)佐羅佐羅(二十五)入嚩(二
 <pb:KR6j0371_T_002-0629b>¶
-合)里𩕳鉢囉(二合)韈灑覩泥(上聲引)嚩(二十六)三滿¶
+合)里𩕳鉢囉(二合)󰹺灑覩泥(上聲引)嚩(二十六)三滿¶
 帝(引)曩儞(泥以切)眇(引)娜計(引)曩(二十七)阿蜜栗(二¶
 合)多嚩囉灑(二合)抳(二十八)泥(上聲引)嚩跢嚩跢囉¶
 抳(二十九)阿鼻詵者覩銘(三十)蘇(上聲)誐多嚩囉¶
@@ -1085,7 +1079,7 @@
 嚩(二合短聲)娑底也(二合)野寧薩嚩(二合引)賀(引六十九)始¶
 鑁(無敢切)羯哩扇(引)底羯哩補瑟置(二合)羯哩¶
 (二合)麼羅末達𩕳薩嚩(二合引)賀(引七十)室哩(二合)¶
-羯哩薩嚩(二合引)賀(引七十一)室哩(二合)野末達𩕳薩嚩(二合引)賀(引七十二)室哩(二合)野入嚩(二合引)攞𩕳薩嚩(二合引)
+羯哩薩嚩(二合引)賀(引七十一)室哩(二合)野末達𩕳薩嚩二合引賀引七十二室哩二合野入嚩二合引攞𩕳𩕳(二合引)(引七十二)(二合)(二合引)𩕳薩嚩(二合引)
 <pb:KR6j0371_T_002-0631a>¶
 賀(引七十三)曩母呰薩嚩(二合引)賀(引七十四)麼嚕呰薩嚩¶
 (二合引)賀(引七十五)吠誐嚩底薩嚩(二合引)賀(引七十六)唵(引)薩¶
@@ -1103,7 +1097,7 @@
 鼻詵(去聲)佐覩𤚥(八十七)薩嚩怛他(去聲引)蘖跢薩¶
 嚩尾儞也(二合引)鼻曬罽(引八十八)摩賀嚩日囉(二¶
 合)迦嚩佐母(上聲)捺囉(二合)母捺哩(二合)帶¶
-(引八十九)薩嚩怛他(引)誐多吃哩(二合)乃夜地瑟¶
+(引　十九)薩嚩怛他(引)誐多吃哩(二合)乃夜地瑟¶
 恥(二合)多嚩日[口*(匕/示)*(入/米)](二合)娑嚩(二合引)賀(引二百九十)¶
 ¶
 
@@ -1198,96 +1192,96 @@
 (引一百二十七)
 <pb:KR6j0371_T_002-0632b>¶
 
-Namaḥsarvatathāgatānāṁnamonamaḥsarvabuddhabodhi-sattva-buddha-dharma-saṁghebhyaḥ,tadyathā.Oṁvipragarbhe¶
-vipulavimalevimalagarbhevimalejayagarbhevajrajvālāgarbhe,gatigahane,gaganaviśodhane,sarvapapaviśodhane.¶
-Oṁguṇavatigaganavicāriṇi,gagariṇi2giriṇi2bhagarigarddhabhari,gamari2gahari2gaha2gargāri2gagari2gaṁ-¶
-bhari2gabhi2gahi2gamari2gare2guha2guru2gubha2guriṇi2calemucalesamucalejayevijaye,jagavati,aparā-¶
-jite,sarvabhayavigate,garbhasaṁbharaṇi,śiri2ciri2miri2piri2ghiri2sarvamantrākarṣaṇi.Sarvaśatrūnpramathanī¶
-rakṣa2sarvasattvānāñcasarvadāsarvabhayebhyaḥ,sarvavyādhibhyaḥsarvopidravebhyaḥciri2viri2diri2vigatāvaraṇa¶
-viśodhani,vividhāvaraṇavināsanīmuni2muci2muli2cili2kili2mili2kamalevimale,jayejayāvahe,jayavativiśeṣa¶
-vatibhagavatiratnamakuṭamālādharivajravividhavicitraveśadhāriṇībhagavatimahāvidyādevirakṣa2mamasarvasat-¶
-tvānāñcasamantāsarvatrasarvapāpaviśodhanī,huru2curu2muru2rakṣa2māṁsarvasattvānāñcaanāthāntraṇānalayanāna¶
-parāyaṇānya(pa?)rimocayasarvaduḥkhebhyaḥcaṇḍi2caṇḍo2caṇḍini2vegavatisarvaduṣṭanivaraṇīvijayavāhinihuru2muru¶
-2curu2turu2māyupālinī,suravarapramathanī,sarvadevagaṇapūjiteciri2dhiri2samantāvalokiteprabhe2suprabhe2¶
-viśuddhe,sarvapāpaviśodhanīdhara2dharaṇīndharesuru2sumuru2rurucalecāraya2sarvaduṣṭānpuraya2āsāṁmama¶
-sarvasattvānāñcakuru2śrīvasundharejayakamalejuli2varadīkuse.Oṁpadmaviśuddheśodhaya2śuddhe2bhara2¶
-bhiri2bhuru2maṅgalaviśuddhepavitramukhi,khaṅgiri2khara2jvaritaśiṣare,samantāvalokitaprabhe,śubha2praviśud-¶
-dhesamantaprasāritavabhāsitaśuddhejvala2sarvadevagaṇasamākarṣiṇi,satyaprate,Oṁhrītraṁ,tara2tāraya2māṁ¶
-saparivārānsarvasattvānāñca,nāgavilokite,huru2laghu2hutu2tuhu2kṣiṇi2sarvagrahabhakṣiṇipiṅgali2muci2sumu¶
-2suvicare,tara2nāgavilokinitāravantuṁmāṁsaparivārānsarvasattvānāñcasaṁsārṇavāha*gavatiaṣṭhamahābhayebhyaḥ¶
-sarvatrasamantenadiśāvandhenavajraprākāravandhenavajrapāśavandhenavajrajvālivajrajvālāviśuddhena;bhuri2bha-¶
-gavatigarbhavatigarbhaśodhanī,kukṣisampūraṇi,jvala2cala2Oṁjvalani2varṣatudevasamantenadivyodakenāmṛta¶
-varṣaṇi,devatāvatāraṇī,abhiṣiñcantusugatavaravacanāmṛtavaravapūṣe.Rakṣa2mamasarvasattvānāñcasarvatrasarvadā¶
-sarvabhayebhyaḥsarvopodravebhyaḥsarvopasargebhyaḥsarvavyādhibhyaḥsarvaduṣṭabhayabhītebhyaḥsarvakalikalaha¶
-vigrahavīvādaduḥkhapradurunimirttāmaṅgalapāpaviśodhanī,kukṣisaṁpūraśi,sarvayakṣarākṣasanāgavidāriṇicala2¶
-vala2varavatijaya2jayantumāṁsarvatrasarvakālaṁsidhyantume.Iyammahāvidyāsādhayamaṇḍalānughātayavigh-¶
-nānjaya2siddhesidhya2buddhya2pūraya2pūraṇi2pūrayāśāṁmāṁsaparivārāṁsarvasattvānāñcasarvadidyo*ṅga-¶
-tamūrttejayottari,jayakarījayavatitiṣṭha2bhagavatisamayam:anupālayatathāgatahṛdayaśuddhevyavalokayamamasaparivā-¶
-raṁsarvasattvānāñcaāśāṁpūrayatrāyasvamāmā*ṣṭhamahādāruṇabhayebhyaḥsarvāsīperipūrayatrāyasvamāṁmahābha-¶
-yebhyaḥ,sara2prasara2sarvāvaraṇaviśodhanisamantākāramaṇḍalaviśuddhevigate2vigatamalasarvavigatamalaviśodhani¶
-kṣiṇi2sarvapāpaviśuddhe,malaviśuddhetejavatitejovati,vajrevajravatitrailokyādiṣṭhitesvāhā,sarvatathāgatamūrddhna-¶
-bhiṣikte*svāhā,sarvabuddhabodhisattvābhiṣiktesvāhā,sarvadevatābhiṣiktesvāhā,sarvatathāgatahṛḍayādhiṣṭhitahṛdaye¶
-svāhā,sarvatathāgatahṛdayasamayesiddhesvāhā,indreindravatiindravyavalokitesvāhā,brahmebrahmādhyūṣitesvāhā,
+Namaḥ sarvatathāgatānāṁ namo namaḥ sarvabuddha bodhi-sattva-buddha-dharma-saṁghebhyaḥ, tadyathā. Oṁ vipragarbhe¶
+vipula vimale vimala garbhe vimale jaya garbhe vajra jvālā garbhe, gati gahane, gagana viśodhane, sarva papa viśodhane.¶
+Oṁ guṇavati gagana vicāriṇi, gagariṇi 2 giriṇi 2 bhagari garddhabhari, gamari 2 gahari 2 gaha 2 gargāri 2 gagari 2 gaṁ-¶
+bhari 2 gabhi 2 gahi 2 gamari 2 gare 2 guha 2 guru 2 gubha 2 guriṇi 2 cale mucale samucale jaye vijaye, jagavati, aparā-¶
+jite, sarva bhaya vigate, garbha saṁbharaṇi, śiri 2 ciri 2 miri 2 piri 2 ghiri 2 sarva mantrā karṣaṇi. Sarva śatrūnpramathanī¶
+rakṣa 2 sarvasattvānāñca sarvadā sarva bhayebhyaḥ, sarva vyādhibhyaḥ sarvopidravebhyaḥ ciri 2 viri 2 diri 2 vigatā varaṇa¶
+viśodhani, vividhāvaraṇa vināsanī muni 2 muci 2 muli 2 cili 2 kili 2 mili 2 kamale vimale, jaye jayāvahe, jayavati viśeṣa¶
+vati bhagavati ratna makuṭa mālādhari vajra vividha vicitraveśa dhāriṇī bhagavati mahā vidyā devi rakṣa 2 mama sarva sat-¶
+tvānāñca samantā sarvatra sarvapāpa viśodhanī, huru 2 curu 2 muru 2 rakṣa 2 māṁ sarvasattvānāñca anāthāntraṇānalayanāna¶
+parāyaṇānya(pa?)rimocaya sarvaduḥkhebhyaḥ caṇḍi 2 caṇḍo 2 caṇḍini 2 vegavati sarva duṣṭanivaraṇī vijaya vāhini huru 2 muru¶
+2 curu 2 turu 2 māyupālinī, sura vara pramathanī, sarva deva gaṇa pūjite ciri 2 dhiri 2 samantāvalokite prabhe 2 suprabhe 2¶
+viśuddhe, sarva pāpa viśodhanī dhara 2 dharaṇīndhare suru 2 sumuru 2 rurucale cāraya 2 sarvaduṣṭānpuraya 2 āsāṁ mama¶
+sarva sattvānāñca kuru 2 śrī vasundhare jayakamale juli 2 varadīkuse. Oṁ padma viśuddhe śodhaya 2 śuddhe 2 bhara 2¶
+bhiri 2 bhuru 2 maṅgala viśuddhe pavitra mukhi, khaṅgiri 2 khara 2 jvarita śiṣare, samantāvalokita prabhe, śubha 2 praviśud-¶
+dhe samanta prasārita vabhāsita śuddhe jvala 2 sarva deva gaṇa samākarṣiṇi, satyaprate, Oṁ hrī traṁ, tara 2 tāraya 2 māṁ¶
+saparivārān sarvasattvānāñca, nāga vilokite, huru 2 laghu 2 hutu 2 tuhu 2 kṣiṇi 2 sarvagraha bhakṣiṇi piṅgali 2 muci 2s umu¶
+2 suvicare, tara 2 nāgavilokini tāravantuṁ māṁ saparivārān sarvasattvānāñca saṁsārṇa vāha*gavati aṣṭhamahā bhayebhyaḥ¶
+sarvatra samantena diśāvandhena vajra prākāra vandhena vajrapāśa vandhena vajrajvāli vajra jvālā viśuddhena; bhuri 2 bha-¶
+gavati garbhavati garbha śodhanī, kukṣisampūraṇi, jvala 2 cala 2 Oṁ jvalani 2 varṣatu deva samantena divyodakenāmṛta¶
+varṣaṇi, devatāvatāraṇī, abhiṣiñcantu sugata varavacanāmṛta varavapūṣe. Rakṣa 2 mama sarvasattvānāñca sarvatra sarvadā¶
+sarva bhayebhyaḥ sarvopodravebhyaḥ sarvopasargebhyaḥ sarva vyādhibhyaḥ sarva duṣṭa bhayabhītebhyaḥ sarva kalikalaha¶
+vigraha vīvāda duḥkha pradurunimirttā maṅgala pāpa viśodhanī, kukṣi saṁpūraśi, sarva yakṣa rākṣasa nāga vidāriṇi cala 2¶
+vala 2 varavati jaya 2 jayantu māṁ sarvatra sarva kālaṁ sidhyantu me. Iyam mahā vidyā sādhaya maṇḍalānughātaya vigh-¶
+nān jaya 2 siddhe sidhya 2 buddhya 2 pūraya 2 pūraṇi 2 pūrayāśāṁ māṁ saparivārāṁ sarva sattvānāñca sarva didyo*ṅga-¶
+tamūrtte jayottari, jayakarī jayavati tiṣṭha 2 bhagavati samayam:anupālaya tathāgata hṛdaya śuddhe vyavalokaya mama saparivā-¶
+raṁ sarva sattvānāñca āśāṁ pūraya trāya svamāmā*ṣṭha mahādāruṇa bhayebhyaḥ sarvāsīperipūraya trāya svamāṁ mahā bha-¶
+yebhyaḥ, sara 2 prasara 2 sarvāvaraṇa viśodhani samantākāra maṇḍala viśuddhe vigate 2 vigatamala sarva vigatamala viśodhani¶
+kṣiṇi 2 sarvapāpa viśuddhe, mala viśuddhe tejavati tejovati, vajre vajravati trailokyādiṣṭhite svāhā, sarva tathāgata mūrddhna-¶
+bhiṣikte* svāhā, sarva buddha bodhisattvābhiṣikte svāhā, sarva devatābhiṣikte svāhā, sarva tathāgata hṛḍayādhiṣṭhita hṛdaye¶
+svāhā, sarva tathāgata hṛdaya samaye siddhe svāhā, indre indravati indra vyavalokite svāhā, brahme brahmādhyūṣite svāhā,
 <pb:KR6j0371_T_002-0633a>¶
-viṣṇunamaskṛtesvāhā,maheśvaravanditapūjitāyaisvāhā,vajradharavajrapāṇivalavīryādhiṣṭhītesvāhā,dhṛtarāṣṭrāya¶
-svāhā,virūdhakāyasvāhā,virūpākṣāyasvāhā,vaiśravanāyasvāhā,caturmahārājanamaskṛtāyasvāhā,jamāyasvāhā,jama¶
-pūjitanamaskṛtāyasvāhā,varuṇāyasvāhā,marutāyasvāhā,mahāmarutāyasvāhā,agnayesvāhā,nāgavilokitāyasvāhā,¶
-devagaṇebhyaḥsvāhā,vāyavesvāhā,nāgavilokitāyasvāhā,devagaṇebhyaḥsvāhā,nāgagaṇebhyaḥsvāhā,yakṣagaṇebhyaḥsvāhā,¶
-rākṣasagaṇebhyaḥsvāhā,gandharvagaṇebhyaḥsvāhā,apasmāragaṇebhyaḥsvāhā,asuragaṇebhyaḥsvāhā,garuḍagaṇebhyaḥ¶
-svāhā,kinnaragaṇebhyaḥsvāhā,mahoragagaṇebhyaḥsvāhā,manuṣyagaṇebhyaḥsvāhā,amanuṣyagaṇebhyaḥsvāhā,sarva¶
-grahebhyaḥsvāhā,sarvabhūtebhyaḥsvāhā,sarvapretebhyaḥsvāhā,sarvapiśacebhyaḥsvāhā,sarvāpasmārebhyaḥsvāhā,sarva¶
-kumbhāṇḍebhyaḥsvāhā,sarvapūṭanebhyaḥsvāhā,sarvakaṭa-pūṭanebhyaḥsvāhā,sarvaduṣṭapraduṣṭebhyaḥsvāhā.Oṁdhuru¶
-2Oṁturu2svāhā,Oṁkuru2svāhā,Oṁcuru2svāhā,Oṁmuru2svāhā,Oṁhana2svāhā,sarvaśatrunāṁsvāhā,Oṁ¶
-phaha2sarvaduṣṭānāṁsvāhā,Oṁpaca2sarvaprabhyarthikaprabhyamitrāṁsvāhā,yemamāhitairṣiṇasteṣāṁśarīraṁ¶
-jvālayesvāhā,sarvaduṣṭacittānāṁsvāhā,jvalitāyasvāhā,samantajvālāyasvāhā,vajrājvālāyasvāhā,māṇibhadrāyasvāhā,¶
-pūrṇabhadrāyasvāhā,samantabhadrāyasvāhā,mahāmahantabhadrāyasvāhā,kālāyasvāhā,mahākālāyasvāhā,mātṛgaṇaya¶
-svāhā,yakṣiṇināṁsvāhā,rākṣaśīnāṁsvāhā,preṭapiśācaḍākinīnāṁsvāhā,ākāśamātṛṇāṁsvāhā,samudragāminīnāṁsvāhā,¶
-samudravāsinīnāṁsvāhā,rātricarāṇāṁsvāhā,velācarāṇāṁsvāhā,avelācarāṇāṁsvāhā,garbhaharebhyaḥsvāhā,garbhāhā-¶
-rebhyaḥsvāhā,garbhasaṁdhāraṇīyesvāhā,hulu2svāhā,culu2svāhā,Oṁsvāhā,svasvāhā,bhūḥsvāhā,tuvaḥsvāhā,Oṁ¶
-bhūrtvaḥsvāhā,cili2svāhā,sili2svāhā,budhya2svāhā,maṇḍalabandhesvāhā,śīmāvandhyesvāhā,sarvaśatrūṇābhañjeya¶
-2svāhā,...........ṣvāhā,stambhāya2svāhā,cchinda2svāhā,bhinda2svāhā,bhañja2svāhā,vandha2svāhā,mohaya2svāhā,¶
-maṇiviśuddhesvāhā,sūryasūryaviśuddhesvāhā,sodhānīyesvāhā,visodhanīyesvāhā,candre2pūrṇacandresvāhā,grahe-¶
-bhyaḥsvāhā,nakṣatrebhyaḥsvāhā,piśācebhyaḥsvāhā,viśvebhyaḥsvāhā,śivebhyaḥsvāhā,śāntibhyaḥsvāhā,svastyayanebhyaḥ¶
-svāhā,śivaṁkarisvāhā,śaṁkarisvāhā,śāntiṁkarisvāhā,pūṣṭiṁkarisvāhā,valavarddhaṇisvāhā,śrīkarisvāhā,śrīvarddhaṇi¶
-svāhā,śrījvālinisvāhā,namucisvāhā,marucisvāhā,vegavatisvāhā.Oṁsarvatathāgatamūrttesvāhā,pravaravigatabhaye¶
-samayasvamāṁbhagavatisarvapāpānhṛdayaḥsvastirbhavatumamasaparivārasyasarvasattvānāñcamuni2vimuni2cari¶
-calanebhayavigatebhayahariṇibodhi2bodhaya2buddhili2cumvili2sarvatathāgatahṛdayajuṣṭesvāhā.¶
+viṣṇu namaskṛte svāhā, maheśvara vandita pūjitāyai svāhā, vajra dhara vajra pāṇi vala vīryādhiṣṭhīte svāhā, dhṛtarāṣṭrāya¶
+svāhā, virūdhakāya svāhā, virūpākṣāya svāhā, vaiśravanāya svāhā, catur mahā rāja namas kṛtāya svāhā, jamāya svāhā, jama¶
+pūjita namaskṛtāya svāhā, varuṇāya svāhā, marutāya svāhā, mahā marutāya svāhā, agnaye svāhā, nāgavilokitāya svāhā,¶
+devagaṇebhyaḥ svāhā, vāyave svāhā, nāgavilokitāya svāhā, devagaṇebhyaḥ svāhā, nāgagaṇebhyaḥ svāhā, yakṣagaṇebhyaḥ svāhā,¶
+rākṣasagaṇebhyaḥ svāhā, gandharva gaṇebhyaḥ svāhā, apasmāra gaṇebhyaḥ svāhā, asuragaṇebhyaḥ svāhā, garuḍa gaṇebhyaḥ¶
+svāhā, kinnara gaṇebhyaḥ svāhā, mahoraga gaṇebhyaḥ svāhā, manuṣya gaṇebhyaḥ svāhā, amanuṣya gaṇebhyaḥ svāhā, sarva¶
+grahebhyaḥ svāhā, sarva bhūtebhyaḥ svāhā, sarva pretebhyaḥ svāhā, sarva piśacebhyaḥ svāhā, sarvāpasmārebhyaḥ svāhā, sarva¶
+kumbhāṇḍebhyaḥ svāhā, sarva pūṭanebhyaḥ svāhā, sarva kaṭa-pūṭanebhyaḥ svāhā, sarva duṣṭa praduṣṭebhyaḥ svāhā. Oṁ dhuru¶
+2 Oṁ turu 2 svāhā, Oṁ kuru 2 svāhā, Oṁ curu 2 svāhā, Oṁ muru 2 svāhā, Oṁ hana 2 svāhā, sarva śatrunāṁ svāhā, Oṁ¶
+phaha 2 sarva duṣṭānāṁ svāhā, Oṁ paca 2 sarva prabhyarthika prabhyamitrāṁ svāhā, ye mamāhitairṣiṇas teṣāṁ śarīraṁ¶
+jvālaye svāhā, sarva duṣṭa cittānāṁ svāhā, jvalitāya svāhā, samanta jvālāya svāhā, vajrā jvālāya svāhā, māṇibhadrāya svāhā,¶
+pūrṇa bhadrāya svāhā, samanta bhadrāya svāhā, mahā mahanta bhadrāya svāhā, kālāya svāhā, mahā kālāya svāhā, mātṛgaṇaya¶
+svāhā, yakṣiṇināṁ svāhā, rākṣaśīnāṁ svāhā, preṭa piśāca ḍākinīnāṁ svāhā, ākāśa mātṛṇāṁ svāhā, samudra gāminīnāṁ svāhā,¶
+samudra vāsinīnāṁ svāhā, rātricarāṇāṁ svāhā, velācarāṇāṁ svāhā, avelācarāṇāṁ svāhā, garbha harebhyaḥ svāhā, garbhāhā-¶
+rebhyaḥ svāhā, garbha saṁdhāraṇīye svāhā, hulu 2 svāhā, culu 2 svāhā, Oṁ svāhā, sva svāhā, bhūḥ svāhā, tuvaḥ svāhā, Oṁ¶
+bhūr tvaḥ svāhā, cili 2 svāhā, sili 2 svāhā, budhya 2 svāhā, maṇḍala bandhe svāhā, śīmāvandhye svāhā, sarva śatrūṇā bhañjeya¶
+2 svāhā, ...........ṣvāhā, stambhāya 2 svāhā, cchinda 2 svāhā, bhinda 2 svāhā, bhañja 2 svāhā, vandha 2 svāhā, mohaya 2 svāhā,¶
+maṇi viśuddhe svāhā, sūrya sūrya viśuddhe svāhā, sodhānīye svāhā, visodhanīye svāhā, candre 2 pūrṇa candre svāhā, grahe-¶
+bhyaḥ svāhā, nakṣatrebhyaḥ svāhā, piśācebhyaḥ svāhā, viśvebhyaḥ svāhā, śivebhyaḥ svāhā, śāntibhyaḥ svāhā, svastyayanebhyaḥ¶
+svāhā, śivaṁkari svāhā, śaṁkari svāhā, śāntiṁ kari svāhā, pūṣṭiṁ kari svāhā, valavarddhaṇi svāhā, śrīkari svāhā, śrīvarddhaṇi¶
+svāhā, śrījvālini svāhā, namuci svāhā, maruci svāhā, vegavati svāhā. Oṁ sarva tathāgata mūrtte svāhā, pravara vigata bhaye¶
+samaya svamāṁ bhagavati sarva pāpān hṛdayaḥ svastir bhavatu mama saparivārasya sarva sattvā nāñca muni 2 vimuni 2 cari¶
+calane bhaya vigate bhaya hariṇi bodhi 2 bodhaya 2 buddhili 2 cumvili 2 sarva tathāgata hṛdaya juṣṭe svāhā.¶
 
 （自唵嚩日囉至薩嚩賀此真言梵本缺）。¶
 
-Oṁmuni2munivareabhiṣiñcantumamasaparivārasyasarvasattvānāñcasarvatathāgatāsarvavidyābhiṣekaiḥmahāvajra¶
-kavacamudrāmudritaiḥsarvatathāgatahṛdayādhisṭhitavajrasvāhā.¶
+Oṁ muni 2 muni vare abhiṣiñcantu mama saparivārasya sarva sattvānāñca sarva tathāgatā sarva vidyābhi ṣekaiḥ mahā vajra¶
+kavaca mudrā mudritaiḥ sarva tathāgata hṛdayādhisṭhita vajra svāhā.¶
 
-Oṁamṛtavarevara2pravaraviśuddhehūṁhūṁphaṭ2svāhā.Oṁamṛtavilokinigarbhasaṁrakṣiṇiākarṣanihūṁ2¶
-phaṭ2svāhā.Oṁvipulevimalejayavalejayavāhiniamṛtehūṁhūṁphaṭsvāhā.Oṁbhara2sambhara2indrīyavala¶
-viśodhanihūṁ2phaṭ2svāhā.¶
+Oṁ amṛtavare vara 2 pravara viśuddhe hūṁ hūṁ phaṭ 2 svāhā. Oṁ amṛta vilokini garbha saṁrakṣiṇi ākarṣani hūṁ 2¶
+phaṭ 2 svāhā. Oṁ vipule vimale jayavale jayavāhini amṛte hūṁ hūṁ phaṭ svāhā. Oṁ bhara 2 sambhara 2 indrīyavala¶
+viśodhani hūṁ 2 phaṭ 2 svāhā.¶
 
-Namobuddhāyanamodharmāyanamaḥsaṁghāya.Namobhagavateśākya-munayemahā-kāruṇikāyatathāgatāyārhaṁte¶
-samyak-saṁbuddhāya.namaḥsamastebhyaḥsamyak-sambuddhebhyaḥ,bhāvanaitannamaskṛtyabuddha-śasana-vṛddhaye.Ahaṁ¶
-idānīṁpravakṣyāmisarva-sattvānānukaṁpayā.imāṁvidyāṁmahā-tejāṁmaha-vala-parākramīdhvaṁ*.yasyāṁbhāṣita-ma-¶
-trāyāṁmunīnāmvajra-mayāsane.mārāścamāra-kāyāścagrahāḥsarva-vināyakāḥ.vighnāścasantiyekecittatkṣaṇādvilayaṁ¶
-gatāḥ.tadyathā.Oṁgiri2giriṇi2girivatigunavatiākāśavatiākāśaviśuddhe,sarvapāpavigate,ākāśegaganatale,ākāśa¶
-vicāriṇi,jvalitaśisare.maṇimauktikakharitaulidharesukeśesavajre,sunetresuvarṇa,suveśe,gaure,atīte,anāgate,prabhyut-¶
-panne.namaḥsarveṣāṃbuddhānāṁjvalitatejasāṁ,buddhesubuddhebhagavatisurakṣaṇi.akṣayesukṣaye,sukṣamesupra-¶
-bhesudanesudāntevadevaradesuvrate,bhagavatibhadravati,bhadresubhadrevimale.jayabhadrepracaṇḍe,caṇḍe,caṇḍi¶
-2vajracaṇḍemahācaṇḍedyo(gau?)rigaṁdhāri,caṇḍāli,mātaṅgivacasi,sumati,pukkasi,śavariśavariśaṁkari,dramiḍī,¶
-raudriṇī,sarvārthasādhanīhana2sarvaśatrūna,ḍhaha2,sarvaduṣṭān,pretapiśāca.ḍakinināṁmanuṣyāmanuṣyāṇāñcapaca¶
-2hṛdayaṁvidhvaṁsayajīvitamsarvaduṣṭagrahānāṁnāśaya2sarvapāpānimebhagavatirakṣa2māṁsarvasattvānāñ¶
-casarvatrasarvadāsarvabhayopadravebhyaḥsarvaduṣṭānāṁvaṁdhanaṁkuru2sarvakilviṣanāśanī,mārkaṇḍe,mṛtyurda-¶
-ṇḍanivāraṇīmānadaṇḍemāninimahāmāninimādhānerini.calavicale.ciṭi*2viti2miti2nidiniditedyoriṇīvīriṇī¶
-pravarasamarecaṅḍālimātaṅgirūndhasi.sarasivacisa,sumati,purkvasi,śavariśāvari,śaṁkari,dramiḍi,drāmidi,ḍhahari*,pacari,¶
-pācari,marddanī,sarale,saralambhe,hīnamadhyonkṛṣṭavidāriṇividhāriṇi,mahile2mahāmahīle,nigaḍenigaḍabhañca,matte¶
-mattini,dānte,cakrecakra-vākini,jvale2jvūlejvalini,śavari,śāvari,sarvavyādhiharaṇi,cūḍi2cūḍini2mahācūḍinī,nimi
+Namo buddhāya namo dharmāya namaḥ saṁghāya. Namo bhagavate śākya-munaye mahā-kāruṇikāya tathāgatāyārhaṁte¶
+samyak-saṁbuddhāya. namaḥ samastebhyaḥ samyak-sambuddhebhyaḥ, bhāvanaitan namas kṛtya buddha-śasana-vṛddhaye. Ahaṁ¶
+idānīṁ pravakṣyāmi sarva-sattvānānukaṁpayā. imāṁ vidyāṁ mahā-tejāṁ maha-vala-parākramīdhvaṁ*. yasyāṁ bhāṣita-ma-¶
+trāyāṁ munīnām vajra-mayāsane. mārāśca māra-kāyāśca grahāḥ sarva-vināyakāḥ. vighnāśca santiyekecit tat kṣaṇādvilayaṁ¶
+gatāḥ. tadyathā. Oṁ giri 2 giriṇi 2 girivati gunavati ākāśavati ākāśa viśuddhe, sarva pāpa vigate, ākāśe gaganatale, ākāśa¶
+vicāriṇi, jvalita śisare. maṇi mauktikakharitaulidhare sukeśe sa vajre, sunetre suvarṇa, suveśe, gaure, atīte, anāgate, prabhyut-¶
+panne. namaḥ sarveṣāṃ buddhānāṁ jvalita tejasāṁ, buddhe subuddhe bhagavati surakṣaṇi. akṣaye sukṣaye, sukṣame supra-¶
+bhe sudane sudānte vade varade suvrate, bhagavati bhadravati, bhadre subhadre vimale. jaya bhadre pracaṇḍe, caṇḍe, caṇḍi¶
+2 vajra caṇḍe mahā caṇḍe dyo(gau?)ri gaṁdhāri, caṇḍāli, mātaṅgi vacasi, sumati, pukkasi, śavari śavari śaṁkari, dramiḍī,¶
+raudriṇī, sarvārtha sādhanī hana 2 sarva śatrūna, ḍhaha 2, sarva duṣṭān, preta piśāca. ḍakinināṁ manuṣyāmanuṣyāṇāñca paca¶
+2 hṛdayaṁ vidhvaṁ sayajīvitam sarva duṣṭa grahānāṁ nāśaya 2 sarva pāpāni me bhagavati rakṣa 2 māṁ sarva sattvānāñ¶
+ca sarvatra sarvadā sarva bhayopadravebhyaḥ sarva duṣṭānāṁ vaṁdhanaṁ kuru 2 sarva kilviṣanāśanī, mārkaṇḍe, mṛtyur da-¶
+ṇḍani vāraṇī māna daṇḍe mānini mahā mānini mādhānerini. cala vicale. ciṭi*2 viti 2 miti 2 nidi nidite dyoriṇī vīriṇī¶
+pravarasamare caṅḍāli mātaṅgirūndhasi. sarasivacisa, sumati, purkvasi, śavari śāvari, śaṁkari, dramiḍi, drāmidi, ḍhahari*, pacari,¶
+pācari, marddanī, sarale, saralambhe, hīna madhyonkṛṣṭa vidāriṇi vidhāriṇi, mahile 2 mahā mahīle, nigaḍe nigaḍabhañ ca, matte¶
+mattini, dānte, cakre cakra-vākini, jvale 2 jvūle jvalini, śavari, śāvari, sarva vyādhi haraṇi, cūḍi 2 cūḍini 2 mahā cūḍinī, nimi
 <pb:KR6j0371_T_002-0634a>¶
-2nimindharitrilokadahani,trilkālokakari.traidhātukavyavalokani,vajraparaśumuṅgarakhangacakratriśūlacintāmani¶
-makuṭamahāvidyādhāraṇirakṣa2māṁsarvasattvānāñcasarvatrasarvasthānagatamsarvaduṣṭabhayebhyaḥsarvama-¶
-nuṣyāmanuṣyabhayebhyaḥsarvavyādhibhyaḥ.vajrevajravati.vajrapāṇidhare,hili2mili2kili2cili2sili2vara2va-¶
-radesarvatrajayalabdhesvāhā.sarvapāpavidāriṇīsvāhā.sarvavyādhiharaṇīsvāhā.garbhasambharaṇīsvāhā.sarva¶
-śatrūharaṇīsvāhā.svastirbhavatumamasarvasattvānāñcasvāhā,śāntikarīsvāhā.puṣṭikarīsvāhā.valavarddhaṇīsvāhā.¶
-Oṁjayatujayejayavatikamalevimalesvāhā.vipulesvāhā.sarvatathāgatamurttesvāhā,Oṁbhūrimahāsāntisvāhā,Oṁ¶
-bhūḥbhūri2vajravatitathāgatahṛdayapūriṇiāyuḥsandhāraṇivara2valavatijayavidyehūṁ2phaṭ2svāhā.（梵本加下¶
-記真言）Oṁmaṇidharivajrinimahāpratirehūṁ2phaṭ2svāhā,Oṁmaṇivajrehṛdayavajremāraśainyavidāyanihana¶
-2sarvaśatrūnvajragarbhetrāśaya2sarvamārabhayanānihūṁ2phaṭ2svāhā.
+2 nimindhari triloka dahani, tril kā lokakari. traidhātuka vyavalokani, vajra paraśu muṅgara khanga cakra triśūla cintāmani¶
+makuṭa mahā vidyā dhāraṇi rakṣa 2 māṁ sarva sattvānāñ ca sarvatra sarva sthāna gatam sarva duṣṭa bhayebhyaḥ sarva ma-¶
+nuṣyāmanuṣya bhayebhyaḥ sarva vyādhibhyaḥ. vajre vajravati. vajrapāṇi dhare, hili 2 mili 2 kili 2 cili 2 sili 2 vara 2 va-¶
+rade sarvatra jaya labdhe svāhā. sarva pāpa vidāriṇī svāhā. sarva vyādhi haraṇī svāhā. garbha sambharaṇī svāhā. sarva¶
+śatrūharaṇī svāhā. svastirbhavatu mama sarva sattvānāñ ca svāhā, śānti karī svāhā. puṣṭikarī svāhā. vala varddhaṇī svāhā.¶
+Oṁ jayatu jaye jayavati kamale vimale svāhā. vipule svāhā. sarva tathāgata murtte svāhā, Oṁ bhūri mahā sānti svāhā, Oṁ¶
+bhūḥ bhūri 2 vajravati tathāgata hṛdaya pūriṇi āyuḥ sandhāraṇi vara 2 valavati jaya vidye hūṁ 2 phaṭ 2 svāhā. （梵本加下¶
+記真言） Oṁ maṇi dhari vajrini mahā pratire hūṁ 2 phaṭ 2 svāhā, Oṁ maṇi vajre hṛdaya vajre māra śainya vidāyani hana¶
+2 sarva śatrūn vajra garbhe trāśaya 2 sarva māra bhayanāni hūṁ 2 phaṭ 2 svāhā.
 <pb:KR6j0371_T_002-0634b>¶
 
 　¶
@@ -1328,8 +1322,7 @@ bhūḥbhūri2vajravatitathāgatahṛdayapūriṇiāyuḥsandhāraṇivara2valav
 　¶
 　　¶
 　　¶
-　¶
-　　¶
+　　　¶
 　　　¶
 　　¶
 　　　¶
@@ -1396,8 +1389,7 @@ bhūḥbhūri2vajravatitathāgatahṛdayapūriṇiāyuḥsandhāraṇivara2valav
 　　¶
 　　¶
 　　¶
-　　¶
-　　　¶
+　　　　　¶
 　　　¶
 　　　¶
 　　　¶
